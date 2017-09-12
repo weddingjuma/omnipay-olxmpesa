@@ -1,5 +1,5 @@
 {
-    "name": "nikmakan-olx/omnipay-olxmpesa",
+    "name": "olx-ssafrica/omnipay-olxmpesa",
     "version": "2.0.0",
     "type": "library",
     "autoload": {
